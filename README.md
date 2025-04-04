@@ -6,9 +6,9 @@ A special repo dedicated to my homelab project to the beginnings to now.
 - [Infrastructure](https://github.com/ngrt-sh/my-homelab/blob/main/infrastructure/readme.md#infrastrucure)
   - [Infra diagram](https://github.com/ngrt-sh/my-homelab/tree/main/infrastructure#diagram-of-my-complete-local-network)
   - [Hosts](https://github.com/ngrt-sh/my-homelab/tree/main/infrastructure#hosts)
-- Services
-  - Docker stack
-  - Virtual Machine and container stack
+- [Services](https://github.com/ngrt-sh/my-homelab/blob/main/services/readme.md#service)
+  - [Docker stack](https://github.com/ngrt-sh/my-homelab/blob/main/services/readme.md#docker-stack)
+  - [Virtual Machine and container stack](https://github.com/ngrt-sh/my-homelab/blob/main/services/readme.md#virtual-machine-stack)
 - Security
   - Update strategy
   - Firewall usage
