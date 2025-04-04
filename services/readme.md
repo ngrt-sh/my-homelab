@@ -25,4 +25,4 @@ Docker cluster -- Node slave with Portainer agent
  - Duplicati
 
 ## Virtual machine stack
-![vm_stack]()
+![vm_stack](https://github.com/ngrt-sh/my-homelab/blob/main/services/Used%20technos.png?raw=true)
