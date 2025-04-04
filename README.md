@@ -3,9 +3,9 @@ A special repo dedicated to my homelab project to the beginnings to now.
 
 # 📋 Table of Contents
 
-- Infrastructure
-  - Infra diagram
-  - Hosts
+- [Infrastructure](https://github.com/ngrt-sh/my-homelab/blob/main/infrastructure/readme.md#infrastrucure)
+  - [Infra diagram](https://github.com/ngrt-sh/my-homelab/tree/main/infrastructure#diagram-of-my-complete-local-network)
+  - [Hosts](https://github.com/ngrt-sh/my-homelab/tree/main/infrastructure#hosts)
 - Services
   - Docker stack
   - Virtual Machine and container stack
