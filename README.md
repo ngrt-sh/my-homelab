@@ -10,11 +10,11 @@ If you want to see my homelab in images, please visit [https://ngrt.fr/homelab](
 - [Services](https://github.com/ngrt-sh/my-homelab/blob/main/services/readme.md#service)
   - [Docker stack](https://github.com/ngrt-sh/my-homelab/blob/main/services/readme.md#docker-stack)
   - [Virtual Machine and container stack](https://github.com/ngrt-sh/my-homelab/blob/main/services/readme.md#virtual-machine-stack)
-- Security
-  - Update strategy
-  - Firewall usage
-  - Authentication
-  - Backups setup
+- [Security](https://github.com/ngrt-sh/my-homelab/blob/main/security/readme.md#security)
+  - [Update strategy](https://github.com/ngrt-sh/my-homelab/blob/main/security/readme.md#update-strategy)
+  - [Firewall usage](https://github.com/ngrt-sh/my-homelab/blob/main/security/readme.md#firewall-usage)
+  - [Authentication](https://github.com/ngrt-sh/my-homelab/blob/main/security/readme.md#authentication)
+  - [Backups setup](https://github.com/ngrt-sh/my-homelab/blob/main/security/readme.md#backup-setup)
 - Supervision and monitoring
   - Used monitoring tools
   - How alerts are configured
