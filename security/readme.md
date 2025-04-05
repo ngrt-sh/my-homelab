@@ -23,4 +23,11 @@ Backuping data is very primordial whether for personal or business use. I have a
    - Used for storing my Proxmox VM and Containers backups with a retention of 7 days, 4 weeks and 3 months to prevent the data saturation.
 
 - Microsoft OneDrive 5 TB
-  - Used 
+  - Used for storing my backup of "everything" in my Homelab. How it scheduled :
+    - 8:00 PM **Immich**
+    - 9:30 PM **Musics**
+    - 12:00 AM **NAS Data**
+    - 3:00 AM **Proxmox VM and CT**
+   
+- External 1 TB Drive
+  - Used for the externalization of my data. The disk will remain all the school days in my high school locker. The weekend and holidays he will remains at my home to keep safe and update it every sundays with the most recent backups.
