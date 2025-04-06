@@ -4,6 +4,8 @@
 
 ![network](https://github.com/ngrt-sh/my-homelab/blob/main/infrastructure/complete_infra.png?raw=true)
 
+Regarding the network hardware, I use a **Zyxel GS1200-8 Gigabit ethernet switch** and a **TP-Link AX1500 Wi-Fi 6 router**.
+
 ## Hosts
 
 Here, I show you all my physical/virtual machines and containers that run into my homelab, her roles and why I use it.
