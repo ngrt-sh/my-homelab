@@ -15,3 +15,5 @@ I have also added some sensors like a CPU temperature, SMART anomally detection,
 # Managed alerts
 
 All my alerts are centralized the a Discord webhook notification system.
+
+![webhook](https://github.com/ngrt-sh/my-homelab/blob/main/monitoring/2025-04-06_18-24.png?raw=true)
