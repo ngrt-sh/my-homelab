@@ -2,7 +2,9 @@
 
 # my-homelab
 A special repo dedicated to my homelab project to the beginnings to now.
-If you want to see my homelab in images, please visit [https://ngrt.fr/homelab](https://ngrt.fr/homelab)
+If you want to see my homelab in photos, please visit [https://ngrt.fr/homelab](https://ngrt.fr/homelab) 
+
+*advice: click on the photo to change the image*
 
 # 📋 Table of Contents
 
