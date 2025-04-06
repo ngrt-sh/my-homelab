@@ -40,7 +40,7 @@ The roadmap isn't very full because, for the moment, I feel that everything I al
 | 2x Seagate 4 TB HDD                      | July/august or september 2025 | ❌     |
 | New power suply unit                     | July/august or september 2025 | ❌     |
 | New case                                 | July/august or september 2025 | ❌     |
-| Firewall to enhance security and control | July/august or september 2025 | ❌     |
+| Firewall to enhance security and control | Expected for 2026             | ❌     |
 
 # ❤️ Big shout
 
