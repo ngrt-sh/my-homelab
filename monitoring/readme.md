@@ -10,10 +10,12 @@ Also, I have maked a bash script on my Proxmox wich is runned every minutes and 
 
 I have also added some sensors like a CPU temperature, SMART anomally detection, long intensive CPU usage or a high usage memory.
 
+By the way, I use [Uptime Robot](https://uptimerobot.com/) for monitoring my public IP because I have openned two ports for Nginx Proxy Manager and if we want to connect to my IP adress we have a result. If the ip adress is unreachable (for a minimal duration of 5 minutes) I'm notified there is a problem.
+
 *Note: these scripts will be available soon in a dedicated repo. Stay tuned!*
 
 ## How alerts are configured
 
-All my alerts are centralized the a Discord webhook notification system.
+All my alerts are centralized the a Discord webhook notification system. And also I have a mail notification system only for Uptime Robot.
 
 ![webhook](https://github.com/ngrt-sh/my-homelab/blob/main/monitoring/2025-04-06_18-24.png?raw=true)
