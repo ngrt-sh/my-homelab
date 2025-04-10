@@ -22,9 +22,9 @@ If you want to see my homelab in photos, please visit [https://ngrt.fr/homelab](
 - [Supervision and monitoring](https://github.com/ngrt-sh/my-homelab/blob/main/monitoring/readme.md#monitoring-and-managed-alerts)
   - [Used monitoring tools](https://github.com/ngrt-sh/my-homelab/blob/main/monitoring/readme.md#used-monitoring-tools)
   - [How alerts are configured](https://github.com/ngrt-sh/my-homelab/blob/main/monitoring/readme.md#how-alerts-are-configured)
-- [Self-hosting](https://github.com/ngrt-sh/my-homelab/new/main#self-hosting)
-  - [How I can "Ungooglise"?](https://github.com/ngrt-sh/my-homelab/new/main#how-i-can-ungooglise)
-  - [Mail management with OVH](https://github.com/ngrt-sh/my-homelab/new/main#mail-management-with-ovh)
+- [Self-hosting](https://github.com/ngrt-sh/my-homelab/tree/main/self-hosting#self-hosting)
+  - [How I can "Ungooglise"?](https://github.com/ngrt-sh/my-homelab/tree/main/self-hosting#how-i-can-ungooglise)
+  - [Mail management with OVH](https://github.com/ngrt-sh/my-homelab/tree/main/self-hosting#mail-management-with-ovh)
 
 # 🚀 The objectives
 My homelab's first objective is to find free, self-hosted alternatives to the big GAFAMs. And also to learn more and have fun. Doing this is super cool because you learn, and it's very easy to find free self-hosted alternatives and above all it's for privacy. My main goal with this homelab is to be digitally sovereign and no longer depend as much as possible on the Americans (Google, Microsoft, etc.).
